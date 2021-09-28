@@ -23,5 +23,7 @@ public class str {
 		System.out.println("s4--> " +s4);
 		System.out.println("s5--> " +s5);
 		System.out.println("s6--> " +s6);
+		
+		system.out.println("***************************************************************");
 	}
 }
