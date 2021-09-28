@@ -13,7 +13,8 @@ public class str {
 			s3 = s3 + s1.charAt(i);
 			s5 = s5.append(s1.charAt(i));
 			s6 = s6.append(s1.charAt(i));
-		}	            
+		}	
+		System.out.println("--------------------------------------------");
 		System.out.println("s1--> " +s3);
 	
 		s2 = s2.reverse();
